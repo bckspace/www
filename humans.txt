@@ -1,0 +1,42 @@
+/* TEAM */
+
+                            
+Mastermind: Brian Speir
+Site: www.brianspeir.com
+Twitter: @brianspeir
+Location: Greater San Francisco Bay Area, California, United States
+
+Raconteur: Megan Hoak
+Site: www.meganhoak.com
+Twitter: @meganhoak
+Location: Greater San Francisco Bay Area, California, United States
+
+                                          
+                        [...]
+						
+
+							
+/* THANKS */
+
+							
+Name: Mom & Dad
+
+						
+                 
+                        [...]
+                        
+
+                            
+/* SITE */
+
+                            
+Last update: 2012/01/02 
+
+                            
+Standards: HTML5, CSS3
+
+                            
+Components: jQuery, Modernizr, jQuery Easing, jQuery Cycle, jQuery Validation, etc.
+
+                            
+Software: Made on a Mac, Thanks Steve !!!
